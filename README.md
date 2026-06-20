@@ -49,17 +49,8 @@
 > First, solve the problem. Then, write the code.
 
 ---
-## 🚀 Featured Section 1
+## 🚀 Featured Section 
 - Project Goal 1: Build scalable and modern web applications.
-- Focus: React, JavaScript, AI Automation, n8n.
-- Best Practice: Clean Code, Reusable Components, Git Workflow.
-- Learning Target: Improve architecture and performance.
-- Status: 🚧 In Progress
-- Motto: Keep Learning, Keep Building.
-
----
-## 🚀 Featured Section 2
-- Project Goal 2: Build scalable and modern web applications.
 - Focus: React, JavaScript, AI Automation, n8n.
 - Best Practice: Clean Code, Reusable Components, Git Workflow.
 - Learning Target: Improve architecture and performance.
