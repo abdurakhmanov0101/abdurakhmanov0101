@@ -18,10 +18,7 @@
 - JavaScript
 - HTML5
 - CSS3
-- Linux
-- Git
 - GitHub
-- n8n
 - OpenAI
 - Claude AI
 
